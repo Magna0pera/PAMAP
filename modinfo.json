@@ -1,8 +1,8 @@
 {
   "context": "client",
   "identifier": "com.pa.magna.mappack",
-  "display_name": "# Magnaria",
-  "description": "A map by Magna0pera, map is good for fighting.",
+  "display_name": "# Magna Maps",
+  "description": "Maps by Magna0pera, maps good for fighting.",
   "author": "Magna0pera",
   "version": "1.0.2",
   "build": "120799",
