@@ -1,0 +1,23 @@
+{
+  "context": "client",
+  "identifier": "com.pa.magna.mappack",
+  "display_name": "# Magnaria",
+  "description": "A map by Magna0pera, map is good for fighting.",
+  "author": "Magna0pera",
+  "version": "1.0.2",
+  "build": "120799",
+  "date": "2025-02-03",
+  "signature": " ",
+  "category": [
+	  "maps",
+	  "titans"
+    ],
+  "scenes": {
+        "load_planet": [
+            "coui://ui/mods/magna/maps.js"
+        ]
+    },
+  "dependencies": [
+       
+    ]
+}
