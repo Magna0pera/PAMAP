@@ -1,6 +1,6 @@
 {
     "name": "3v3 Magnaria",
-    "description": "A 3v3 map designed for solid team play and open battle. It is recommended the strongest player occupy the top slot in each team in the lobby. The second slot favours land warfare. The third slot favours a balanced approach.",
+    "description": "A 3v3 map designed for solid team play and open battle. It is recommended the strongest player occupy the top slot in each team in the lobby. The second slot favours land warfare. The third slot favours a balanced approach. The map has landing sites for a 1v1 if desired",
     "creator": "Magna0pera",
     "version": "10.0.4",
     "planets": [
